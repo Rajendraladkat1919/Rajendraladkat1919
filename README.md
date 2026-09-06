@@ -31,6 +31,44 @@ Eleven years of regulated Kubernetes at a global top-3 bank, FinOps-driven moder
 
 <br/>
 
+## ◆ &nbsp;Currently focusing
+
+<sub>Where I am building depth next — adjacent to the production skill catalog, not claimed as shipped work in the decision records below.</sub>
+
+<div align="center">
+
+**Training & GPU**
+
+![Distributed training](https://img.shields.io/badge/Distributed_training-A78BFA?style=flat-square&labelColor=0D1117)
+![GPU infrastructure](https://img.shields.io/badge/GPU_infrastructure-A78BFA?style=flat-square&labelColor=0D1117)
+
+**Serving**
+
+![Inference optimization](https://img.shields.io/badge/Inference_optimization-22D3EE?style=flat-square&labelColor=0D1117)
+![Model serving at scale](https://img.shields.io/badge/Model_serving_at_scale-22D3EE?style=flat-square&labelColor=0D1117)
+![Multi-model serving](https://img.shields.io/badge/Multi--model_serving-22D3EE?style=flat-square&labelColor=0D1117)
+![Model / LLM gateways](https://img.shields.io/badge/Model_·_LLM_gateways-22D3EE?style=flat-square&labelColor=0D1117)
+![Canary / blue-green ML](https://img.shields.io/badge/Canary_·_blue--green_ML-22D3EE?style=flat-square&labelColor=0D1117)
+
+**Lifecycle & cost**
+
+![Feature stores](https://img.shields.io/badge/Feature_stores-F59E0B?style=flat-square&labelColor=0D1117)
+![Data / model lineage](https://img.shields.io/badge/Data_·_model_lineage-F59E0B?style=flat-square&labelColor=0D1117)
+![Automated retraining](https://img.shields.io/badge/Automated_retraining-F59E0B?style=flat-square&labelColor=0D1117)
+![Cost optimization](https://img.shields.io/badge/Cost_optimization-F59E0B?style=flat-square&labelColor=0D1117)
+
+**Trust & LLMOps**
+
+![ML security](https://img.shields.io/badge/ML_security-FB923C?style=flat-square&labelColor=0D1117)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-FB923C?style=flat-square&labelColor=0D1117)
+![LLMOps](https://img.shields.io/badge/LLMOps-34D399?style=flat-square&labelColor=0D1117)
+![RAG evaluation](https://img.shields.io/badge/RAG_evaluation-34D399?style=flat-square&labelColor=0D1117)
+![LLM observability](https://img.shields.io/badge/LLM_observability-34D399?style=flat-square&labelColor=0D1117)
+
+</div>
+
+<br/>
+
 ## ◆ &nbsp;How I decide
 
 Before I pick a tool, I rank the problem. **The ranking is the architecture — the tool is a consequence.**
