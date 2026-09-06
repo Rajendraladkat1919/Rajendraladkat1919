@@ -31,9 +31,9 @@ Eleven years of regulated Kubernetes at a global top-3 bank, FinOps-driven moder
 
 <br/>
 
-## ◆ &nbsp;Currently focusing
+## ◆ &nbsp;Exploring in production
 
-<sub>Where I am building depth next — adjacent to the production skill catalog, not claimed as shipped work in the decision records below.</sub>
+<sub>Exploring and working on these concepts at production level.</sub>
 
 <div align="center">
 
